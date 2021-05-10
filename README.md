@@ -16,3 +16,6 @@ Con git add agrego archivos a una "canasta", a un grupo de archivos que van a se
 
 ## Commitear los archivos
 
+Cada commit que se está armando debe tener un mensaje, para agregar el mensaje:
+- git commit -m "mensaje"
+Que agregará el mensaje a los archivos añadidos con git add (con los datos que tenían en ese momento)
